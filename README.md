@@ -1,7 +1,7 @@
 # Essay-Subject-Classification-ML
 Machine Learning model classifying essay sentences into academic subjects using hybrid TF-IDF (word + character n-grams) and LinearSVC for high macro-F1 scores. Features: text preprocessing, lemmatization, hybrid vectorization, full-dataset retraining. Outputs predictions to result.csv for competition evaluation.
 
-# Student Essay Subject Classification using Machine Learning
+# Intro
 
 This project focuses on classifying sentences from high-school essays into their correct academic subjects using Machine Learning and NLP techniques. The goal is to automatically identify the subject each sentence belongs to, demonstrating automated text understanding in education systems.
 
